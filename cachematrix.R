@@ -1,8 +1,8 @@
-## The functions below calculate teh inverse of a matrix. 
-## the functions assume that the input matrix is always inversible. 
+## The functions below calculate the inverse of a matrix. 
+## The functions assume that the input matrix is always inversible. 
 
 
-## makeCacheMatrix: this function creates a list of functions that 
+## makeCacheMatrix: This function creates a list of functions that 
 ## set the matrix, get the matrix, set the inverse of the matrix and get the inverse of the matrix. 
 ## 
 ## Input: matrix object whose inverse is to be calculated.
